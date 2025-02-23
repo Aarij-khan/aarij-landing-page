@@ -196,7 +196,7 @@ function Page() {
         </AnimatePresence>
       </div>
 
-      <div className="w-full flex justify-center mt-28 overflow-hidden ">
+      <div className="w-full flex justify-center mt-20 overflow-hidden ">
         <div className="w-[90%] lg:w-[50rem] xl:w-[50rem] 2xl:w-[50rem] flex flex-col lg:h-[90vh] items-center gap-6 lg:gap-8 relative ">
           <Image
             src="/images/left.png"

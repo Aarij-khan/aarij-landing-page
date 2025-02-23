@@ -25,9 +25,9 @@ function Accordin({ state }) {
               How is Layers different from other design tools?
             </p>
             {box[state] ? (
-              <ImCross size={25} className="text-lime-400" />
+              <ImCross size={17} className="text-lime-400" />
             ) : (
-              <FaCirclePlus size={25} className="text-lime-400" />
+              <FaCirclePlus size={17} className="text-lime-400" />
             )}
           </motion.div>
 
